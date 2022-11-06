@@ -301,6 +301,9 @@ ul {
     text-decoration: none;
     display: block;
 }
+.portfolio-img {
+    display: block;
+}
 .portfolio-content {
     padding: 20px 24px;
     border: 1px solid var(--secondary-white-color);
@@ -314,7 +317,7 @@ ul {
     color: var(--primary-text-color);
     font-size: 18px;
     line-height: 2;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.03em;
 }
 .portfolio-teg {
     font-size: 16px;
