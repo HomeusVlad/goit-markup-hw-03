@@ -79,8 +79,6 @@ ul {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    padding-top: 32px;
-    padding-bottom: 32px;
     margin-left: 93px;
 }
 
@@ -91,6 +89,9 @@ ul {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    display: block;
     
 }
 
@@ -99,8 +100,6 @@ ul {
     color: var(--accent-text-color);
 }
 .header-contacts {
-    padding-top: 32px;
-    padding-bottom: 32px;
     margin-left: auto;
     color: var(--secondary-text-color);
 }
@@ -170,6 +169,7 @@ ul {
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .about-text {
